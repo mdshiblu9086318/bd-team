@@ -1,0 +1,9 @@
+.player-container {
+    display: flex;
+}
+.player-content {
+    width: 70%;
+}
+.select-player-content {
+    width: 30%;
+}

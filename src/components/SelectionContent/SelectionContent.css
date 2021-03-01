@@ -1,0 +1,28 @@
+.selected-content{
+    text-align: center;
+    background-color: #262626;
+    box-shadow: 10px 10px 40px #262626;
+    border-radius: 10px;
+    margin: 39px 80px 0 0;
+    padding: 20px;
+}
+.selected-content h1{
+    text-align: center;
+    color: green;
+}
+.selected-content h2{
+    color: #fff;
+}
+.selected-content h3{
+    color:#F9101A;;
+}
+.selected-content h4{
+    color: green;
+}
+.selected-player{
+    background-color: #404040;
+    box-shadow: 10px 10px 40px #404040;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 20px 50px;
+}

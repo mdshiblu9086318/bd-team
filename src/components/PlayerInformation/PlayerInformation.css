@@ -1,0 +1,33 @@
+.player-information img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border-left: 5px solid green;
+}
+.player-information{
+    display: flex;
+}
+.player-information{
+    background-color: #262626;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 30px 0 0 250px;
+    width: 60%;
+    box-shadow: 10px 10px 40px #262626;
+}
+.personal-information {
+    border-left: 1px solid;
+    border-image: linear-gradient(blue,red);
+    border-image-slice: 1;
+    margin-left: 50px;
+    padding-left: 50px;
+}
+.personal-information h1{
+    color: #fff;
+}
+.personal-information p{
+    color: #F9101A;
+}
+.personal-information h3{
+    color: #fff;
+}
